@@ -1,0 +1,7 @@
+Sex;Pclass;PassengerId;Fare;SibSp;Parch
+female;1;94;923.676;52;43
+female;2;76;281.758;37;46
+female;3;144;95.308;129;115
+male;1;122;794.632;38;34
+male;2;108;206.055;37;24
+male;3;347;93.027;173;78
